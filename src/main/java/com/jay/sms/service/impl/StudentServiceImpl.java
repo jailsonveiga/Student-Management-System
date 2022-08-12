@@ -1,4 +1,6 @@
 package com.jay.sms.service.impl;
 
-public class StudentServiceImpl {
+import com.jay.sms.service.StudentService;
+
+public class StudentServiceImpl implements StudentService {
 }
